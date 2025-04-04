@@ -24,6 +24,7 @@ I'm an aspiring **Software Engineer** with a strong passion for **Artificial Int
 - **LinkedIn:** [linkedin.com/in/Sylvester-Bempong](#)
 - **Email:** Sylvesterobese6665@gmail.com
 - **Instagram:** [instagram.com/geeksly_999](#)
+- **X:** [x.com/geekslyy](#)
 
 I'm always open to collaborations, learning opportunities, and networking. Feel free to reach out! 🚀
 
