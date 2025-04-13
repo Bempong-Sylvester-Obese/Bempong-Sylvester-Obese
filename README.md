@@ -16,7 +16,7 @@ I'm an aspiring **Software Engineer** with a strong passion for **Artificial Int
 
 ## Skills 🛠️
 - **Programming Languages:** Python, Swift, JavaScript (Flutter)
-- **Frameworks & Tools:** TensorFlow, Firebase, GitHub, Xcode
+- **Frameworks & Tools:** FastAPI, Firebase, GitHub, Xcode, TensorFlow
 - **Tech Interests:** AI, Cybersecurity, Mobile App Development, Agricultural Engineering
 
 ## Let's Connect! 🌍
