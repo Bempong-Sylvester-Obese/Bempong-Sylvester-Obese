@@ -15,7 +15,7 @@ I'm an aspiring **Software Engineer** with a strong passion for **Artificial Int
 - **AI Credit Scoring Model** 💳: A FinTech project leveraging AI for financial inclusion.
 
 ## Skills 🛠️
-- **Programming Languages:** Python, Swift, JavaScript (Flutter)
+- **Programming Languages:** Python, Swift, JavaScript, Flutter
 - **Frameworks & Tools:** FastAPI, Firebase, GitHub, Xcode, TensorFlow
 - **Tech Interests:** AI, Cybersecurity, Mobile App Development, Agricultural Engineering
 
