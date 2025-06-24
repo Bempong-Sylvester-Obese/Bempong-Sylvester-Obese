@@ -5,7 +5,6 @@ I'm an aspiring **Software Engineer** with a strong passion for **Artificial Int
 
 ## What I Do 🚀
 - **AI & Data Science:** Working on machine learning models for predictive analytics and automation.
-- **Software Development:** Developing applications using **Python, Swift, Flutter, and Firebase**.
 - **Hackathons & Research:** Actively participating in hackathons, especially in **AI-driven FinTech solutions**.
 - **Chess & Education:** Founder of **Bempong Chess Foundation**, promoting chess education in Ghana.
 
