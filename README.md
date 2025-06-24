@@ -19,7 +19,6 @@ I'm an aspiring **Software Engineer** with a strong passion for **Artificial Int
 - **Tech Interests:** AI, Cybersecurity, Mobile App Development, Agricultural Engineering
 
 ## Let's Connect! 🌍
-- **GitHub:** [github.com/Bempong-Sylvester-Obese](#)
 - **LinkedIn:** [linkedin.com/in/Sylvester-Bempong](#)
 - **Email:** Sylvesterobese6665@gmail.com
 - **Instagram:** [instagram.com/geeksly_999](#)
