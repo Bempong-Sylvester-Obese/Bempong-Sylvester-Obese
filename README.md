@@ -10,7 +10,7 @@ I'm an aspiring **Software Engineer** with a strong passion for **Artificial Int
 
 ## Notable Projects 💡
 - **Obese Food App** 🍏: A health-focused app that analyzes food nutrition using AI.
-- **Obese Farms Viability Checker** 🌱: A tool for assessing land suitability using machine learning.
+- **Chess Engine** ♟️: A tool that analyzes chess positions for begineers, intermediate and advanced players.
 - **AI Credit Scoring Model** 💳: A FinTech project leveraging AI for financial inclusion.
 
 ## Skills 🛠️
