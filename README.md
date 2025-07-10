@@ -1,26 +1,66 @@
-# Hi there, I'm Sylvester Bempong! 👋
+<!-- Dark Themed Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Sylvester+Bempong!+%F0%9F%91%8B;Software+Engineer+%7C+AI+Enthusiast+%7C+AgriTech+Innovator" alt="Typing SVG" />
+</p>
 
-## About Me
+---
+
+## 🧑‍💻 About Me
 I'm an aspiring **Software Engineer** with a strong passion for **Artificial Intelligence, Data Science, Cybersecurity, and Agriculture**. My journey started with a background in **Computer Science and Environmental Engineering**, and I'm currently focused on building impactful solutions in **Tech, AgriTech, and FinTech**.
 
-## What I Do 🚀
-- **AI & Data Science:** Working on machine learning models for predictive analytics and automation.
-- **Hackathons & Research:** Actively participating in hackathons, especially in **AI-driven FinTech solutions**.
-- **Chess & Education:** Founder of **Bempong Chess Foundation**, promoting chess education in Ghana.
+---
 
-## Notable Projects 💡
-- **Obese Food App** 🍏: A health-focused app that analyzes food nutrition using AI.
-- **Chess Engine** ♟️: A tool that analyzes chess positions for begineers, intermediate and advanced players.
-- **AI Credit Scoring Model** 💳: A FinTech project leveraging AI for financial inclusion.
+## 🚀 What I Do
+- <b>AI & Data Science:</b> Working on machine learning models for predictive analytics and automation.
+- <b>Hackathons & Research:</b> Actively participating in hackathons, especially in <b>AI-driven FinTech solutions</b>.
+- <b>Chess & Education:</b> Founder of <b>Bempong Chess Foundation</b>, promoting chess education in Ghana.
 
-## Skills 🛠️
-- **Programming Languages:** Python, Swift, JavaScript, Flutter
-- **Frameworks & Tools:** FastAPI, Firebase, GitHub, Xcode, TensorFlow
-- **Tech Interests:** AI, Cybersecurity, Mobile App Development, Agricultural Engineering
+---
 
-I'm always open to collaborations, learning opportunities, and networking. Feel free to reach out! 🚀
+## 💡 Notable Projects
+- <b>Obese Food App</b> 🍏: A health-focused app that analyzes food nutrition using AI.
+- <b>Chess Engine</b> ♟️: A tool that analyzes chess positions for beginners, intermediate and advanced players.
+- <b>AI Credit Scoring Model</b> 💳: A FinTech project leveraging AI for financial inclusion.
 
+---
 
+## 🛠️ Skills & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bempong-Sylvester-Obese&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bempong-Sylvester-Obese&theme=dark&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bempong-Sylvester-Obese&layout=compact&theme=dark&hide_border=true" alt="Top Languages"/>
+</p>
+
+---
+
+## 🌐 Connect with Me
+<p align="left">
+  <a href="mailto:sylvesterbempong@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/sylvesterbempong/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/BempongSylvester"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+</p>
+
+---
+
+<details>
+<summary>✨ <b>Fun Fact</b></summary>
+<p>I believe in the power of technology to transform lives and communities. Let's build something amazing together!</p>
+</details>
 
 <!---
 Bempong-Sylvester-Obese/Bempong-Sylvester-Obese is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
