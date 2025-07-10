@@ -60,7 +60,7 @@ I'm an aspiring **Software Engineer** with a strong passion for **Artificial Int
 
 <details>
 <summary>✨ <b>Fun Fact</b></summary>
-<p>I believe in the power of technology to transform lives and communities. Let's build something amazing together!</p>
+<p>I believe in the power of technology to transform lives and communities. Let's build something amazing together!<br><br>Also, I love chess ♟️.</p>
 </details>
 
 <!---
