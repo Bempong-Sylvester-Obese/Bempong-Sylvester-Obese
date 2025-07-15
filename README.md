@@ -42,7 +42,6 @@ I'm an aspiring **Software Engineer** with a strong passion for **Artificial Int
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Bempong-Sylvester-Obese&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bempong-Sylvester-Obese&theme=dark&hide_border=true" alt="GitHub Streak"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bempong-Sylvester-Obese&layout=compact&theme=dark&hide_border=true" alt="Top Languages"/>
 </p>
 
