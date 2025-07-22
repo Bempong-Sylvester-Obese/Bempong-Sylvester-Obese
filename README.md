@@ -59,7 +59,7 @@ I'm an aspiring **Software Engineer** with a strong passion for **Artificial Int
   <a href="https://instagram.com/geeksly_999"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://discord.com/users/geekslyyyyy"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
   <a href="https://geeksly.bsky.social"><img src="https://img.shields.io/badge/Bluesky_Social-0085FF?style=for-the-badge&logo=bluesky&logoColor=white"/></a>
-  <a href="https://www.reddit.com/user/Geekslyyy"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/></a>
+  <a href="https://www.reddit.com/user/Lower_Rice_2083"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/></a>
 </p>
 
 ---
