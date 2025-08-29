@@ -48,6 +48,7 @@ I'm an aspiring **Software Engineer** with a strong passion for **Artificial Int
   <a href="https://huggingface.co/geekslyy"><img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black"/></a>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
   <img src="https://img.shields.io/badge/Warp-0078D4?style=for-the-badge&logo=warp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 </p>
 
 ---
