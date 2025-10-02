@@ -1,4 +1,5 @@
 <!-- Dark Themed Banner -->
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Sylvester+Bempong!+%F0%9F%91%8B;Software+Engineer+%7C+AI+Enthusiast+%7C+AgriTech+Innovator&repeat=true" alt="Typing SVG" />
 </p>
@@ -6,29 +7,34 @@
 ---
 
 ## 🧑‍💻 About Me
+
 I'm an aspiring **Software Engineer** with a strong passion for **Artificial Intelligence, Data Science, Cybersecurity, and Agriculture**. My journey started with a background in **Computer Science and Environmental Engineering**, and I'm currently focused on building impactful solutions in **Tech, AgriTech, and FinTech**.
 
 ---
 
 ## 🚀 What I Do
-- <b>AI & Data Science:</b> Working on machine learning models for predictive analytics and automation.
-- <b>Hackathons & Research:</b> Actively participating in hackathons, especially in <b>AI-driven FinTech solutions</b>.
-- <b>Chess & Education:</b> Founder of <b>Bempong Chess Foundation</b>, promoting chess education in Ghana.
+
+- `<b>`AI & Data Science:`</b>` Working on machine learning models for predictive analytics and automation.
+- `<b>`Hackathons & Research:`</b>` Actively participating in hackathons, especially in `<b>`AI-driven FinTech solutions`</b>`.
+- `<b>`Chess & Education:`</b>` Founder of `<b>`Bempong Chess Foundation`</b>`, promoting chess education in Ghana.
 
 ---
 
 ## 💡 Notable Projects
-- <b>Obese Food App</b> 🍏: A health-focused app that analyzes food nutrition using AI.
-- <b>Chess Engine</b> ♟️: A tool that analyzes chess positions for beginners, intermediate and advanced players.
-- <b>AI Credit Scoring Model</b> 💳: A FinTech project leveraging AI for financial inclusion.
+
+- `<b>`Obese Food App`</b>` 🍏: A health-focused app that analyzes food nutrition using AI.
+- `<b>`Chess Engine`</b>` ♟️: A tool that analyzes chess positions for beginners, intermediate and advanced players.
+- `<b>`AI Credit Scoring Model`</b>` 💳: A FinTech project leveraging AI for financial inclusion.
 
 ---
 
 ## 🛠️ Skills & Tools
+
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
   <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
@@ -56,6 +62,7 @@ I'm an aspiring **Software Engineer** with a strong passion for **Artificial Int
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Bempong-Sylvester-Obese&show_icons=true&theme=dark&hide_border=true&cache_seconds=60" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bempong-Sylvester-Obese&layout=compact&theme=dark&hide_border=true" alt="Top Languages"/>
@@ -64,6 +71,7 @@ I'm an aspiring **Software Engineer** with a strong passion for **Artificial Int
 ---
 
 ## 🌐 Connect with Me
+
 <p align="left">
   <a href="mailto:sylvesterobese6665@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/sylvester-bempong/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
