@@ -20,14 +20,6 @@ I'm an aspiring **Software Engineer** with a strong passion for **Artificial Int
 
 ---
 
-## 💡 Notable Projects
-
-- `<b>`Obese Food App`</b>` 🍏: A health-focused app that analyzes food nutrition using AI.
-- `<b>`Chess Engine`</b>` ♟️: A tool that analyzes chess positions for beginners, intermediate and advanced players.
-- `<b>`AI Credit Scoring Model`</b>` 💳: A FinTech project leveraging AI for financial inclusion.
-
----
-
 ## 🛠️ Skills & Tools
 
 <p align="left">
@@ -56,6 +48,7 @@ I'm an aspiring **Software Engineer** with a strong passion for **Artificial Int
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
 
@@ -64,8 +57,8 @@ I'm an aspiring **Software Engineer** with a strong passion for **Artificial Int
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bempong-Sylvester-Obese&show_icons=true&theme=dark&hide_border=true&cache_seconds=60" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bempong-Sylvester-Obese&layout=compact&theme=dark&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Bempong-Sylvester-Obese&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&custom_title=GitHub%20Statistics" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bempong-Sylvester-Obese&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages"/>
 </p>
 
 ---
