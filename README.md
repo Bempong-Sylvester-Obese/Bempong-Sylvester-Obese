@@ -37,6 +37,7 @@ I'm an aspiring **Software Engineer** with a strong passion for **Artificial Int
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/Core_ML-FF6B6B?style=for-the-badge&logo=apple&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JAX-FF6B6B?style=for-the-badge&logo=google&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
   <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
