@@ -10,16 +10,6 @@
 
 I'm an aspiring **Software Engineer** with a strong passion for **Artificial Intelligence, Data Science, Cybersecurity, and Agriculture**. My journey started with a background in **Computer Science and Environmental Engineering**, and I'm currently focused on building impactful solutions in **Tech, AgriTech, and FinTech**.
 
----
-
-## 🚀 What I Do
-
-- `<b>`AI & Data Science:`</b>` Working on machine learning models for predictive analytics and automation.
-- `<b>`Hackathons & Research:`</b>` Actively participating in hackathons, especially in `<b>`AI-driven FinTech solutions`</b>`.
-- `<b>`Chess & Education:`</b>` Founder of `<b>`Bempong Chess Foundation`</b>`, promoting chess education in Ghana.
-
----
-
 ## 🛠️ Skills & Tools
 
 <p align="left">
