@@ -8,7 +8,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm an aspiring **Data Scientist** with a strong passion for **Artificial Intelligence, Data Science, Cybersecurity, and Agriculture**. My journey started with a background in **Computer Science and Environmental Engineering**, and I'm currently focused on building impactful solutions in **Tech, AgriTech, and FinTech**.
+I'm an aspiring **Data Scientist** with a strong passion for **Artificial Intelligence, Data Science, Cybersecurity, and Agriculture**. I'm currently focused on building impactful solutions.
 
 ## 🛠️ Skills & Tools
 
