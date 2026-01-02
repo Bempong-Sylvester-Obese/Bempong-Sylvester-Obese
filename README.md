@@ -8,7 +8,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm an aspiring **Data Scientist** with a strong passion for **Artificial Intelligence, Data Science, Cybersecurity, and Agriculture**. I'm currently focused on building impactful solutions.
+I'm an aspiring **Data Scientist** with a strong passion for **Artificial Intelligence, Data Science, and Agriculture**. I'm currently focused on building impactful solutions.
 
 ## 🛠️ Skills & Tools
 
