@@ -8,7 +8,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm an aspiring **Data Scientist** with a strong passion for **Artificial Intelligence, Data Science, Research and Agriculture**. Freshman @Univetsity Of Cape Coast
+I'm an aspiring **Data Scientist** with a strong passion for **Artificial Intelligence, Data Science, Research and Agriculture**.
 
 ## 🛠️ Skills & Tools
 
